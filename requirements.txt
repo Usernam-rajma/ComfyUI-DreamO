@@ -1,0 +1,6 @@
+diffusers==0.31.0
+transformers==4.45.2
+sentencepiece
+einops
+protobuf
+git+https://github.com/ToTheBeginning/facexlib.git
