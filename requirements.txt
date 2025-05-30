@@ -1,5 +1,5 @@
-diffusers==0.31.0
-transformers==4.45.2
+diffusers
+transformers
 sentencepiece
 einops
 protobuf
