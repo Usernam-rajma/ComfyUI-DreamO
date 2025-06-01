@@ -10,7 +10,7 @@ Repository = "https://github.com/ToTheBeginning/ComfyUI-DreamO"
 #  Used by Comfy Registry https://registry.comfy.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "yanzewu"
 DisplayName = "ComfyUI-DreamO"
 Icon = ""
 includes = []
