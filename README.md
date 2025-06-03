@@ -16,6 +16,7 @@ This implementation is based on the 2025.5.19 version of ComfyUI (commit ID: e93
 # manual install
 cd custom_nodes
 git clone https://github.com/ToTheBeginning/ComfyUI-DreamO.git
+# Please make sure that you have installed the forked version of facexlib, not the original facexlib. Otherwise, you may encounter face parsing errors.
 pip install -r requirements.txt
 # restart comfyui
 ```
